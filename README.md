@@ -1,3 +1,10 @@
-# ip
+# Fetch your local ip address by Rust
 
-Get your local ip address in Rust
+## Getting Started
+
+```shell
+git clone git@github.com:flamingoodev/ip.git
+cd ip
+sh install.sh
+ip
+```
